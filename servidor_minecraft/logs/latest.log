@@ -1,60 +1,783 @@
-[00:00:18] [Server thread/INFO]: Cafssterr has made the advancement [Monster Hunter]
-[00:00:23] [Server thread/INFO]: Naannoo has made the advancement [Not Today, Thank You]
-[00:00:31] [Server thread/INFO]: Cafssterr has made the advancement [Not Today, Thank You]
-[00:05:52] [Server thread/INFO]: Cafssterr has made the advancement [Isn't It Iron Pick]
-[00:05:55] [Server thread/INFO]: Naannoo has made the advancement [Isn't It Iron Pick]
-[00:06:21] [Server thread/INFO]: Cafssterr has made the advancement [The Cutest Predator]
-[00:07:20] [Server thread/INFO]: Naannoo has made the advancement [Diamonds!]
-[00:11:00] [Server thread/INFO]: Cafssterr lost connection: Disconnected
-[00:11:00] [Server thread/INFO]: Cafssterr left the game
-[00:11:00] [Server thread/INFO]: [voicechat] Disconnecting client Cafssterr
-[00:12:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:12:20] [Server thread/INFO]: toy entrando<--[HERE]
-[00:17:45] [Server thread/INFO]: Cafssterr[/100.73.252.4:62193] logged in with entity id 11313 at (-459.69999998807907, 32.0, -79.69999998807907)
-[00:17:45] [Server thread/INFO]: Cafssterr joined the game
-[00:17:47] [Server thread/INFO]: [voicechat] Received secret request of Cafssterr (18)
-[00:17:47] [Server thread/INFO]: [voicechat] Sent secret to Cafssterr
-[00:17:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
-[00:17:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
-[00:17:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
-[00:18:33] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:18:50] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:18:51] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:19:18] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:19:18] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:19:40] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:19:41] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 -140
-[00:19:58] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 140
-[00:19:59] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 140
-[00:20:00] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 140
-[00:20:11] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 102
-[00:20:14] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 92
-[00:20:15] [Server thread/INFO]: [Not Secure] <Naannoo> -585 125 92
-[00:20:38] [Server thread/INFO]: Naannoo was shot by Skeleton
-[00:20:43] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[00:20:43] [Server thread/INFO]: Naannoo left the game
-[00:20:43] [Server thread/INFO]: [voicechat] Disconnecting client Naannoo
-[00:20:47] [Server thread/INFO]: Cafssterr lost connection: Disconnected
-[00:20:47] [Server thread/INFO]: Cafssterr left the game
-[00:20:47] [Server thread/INFO]: [voicechat] Disconnecting client Cafssterr
-[00:20:48] [Server thread/INFO]: Naannoo[/100.86.117.58:54519] logged in with entity id 12773 at (-561.9877600126549, 121.0, 65.8530902132931)
-[00:20:48] [Server thread/INFO]: Naannoo joined the game
-[00:20:48] [Server thread/INFO]: [voicechat] Received secret request of Naannoo (18)
-[00:20:48] [Server thread/INFO]: [voicechat] Sent secret to Naannoo
-[00:20:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[00:20:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[00:20:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
-[00:20:54] [Server thread/INFO]: Naannoo lost connection: Disconnected
-[00:20:54] [Server thread/INFO]: Naannoo left the game
-[00:20:54] [Server thread/INFO]: [voicechat] Disconnecting client Naannoo
-[00:22:25] [Server thread/INFO]: Stopping the server
-[00:22:25] [Server thread/INFO]: Stopping server
-[00:22:25] [Server thread/INFO]: Saving players
-[00:22:25] [Server thread/INFO]: Saving worlds
-[00:22:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:22:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:22:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:22:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:22:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:22:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:22:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:22:57] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[00:22:57] [main/INFO]: Loading 10 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+	- voicechat 1.20.1-2.5.26
+	   |-- fabric-api-base 0.4.29+b04edc7a82
+	   |-- fabric-command-api-v2 2.2.11+b3afc78b82
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da82
+	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b82
+	   |-- fabric-networking-api-v1 1.3.8+b3afc78b82
+	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d82
+[00:22:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/UltraHardcore/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:22:58] [main/INFO]: Compatibility level set to JAVA_16
+[00:22:58] [main/INFO]: Compatibility level set to JAVA_17
+[00:22:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:23:08] [main/INFO]: [voicechat] Compatibility version 18
+[00:23:08] [main/INFO]: [voicechat] Loading plugins
+[00:23:08] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[00:23:08] [main/INFO]: [voicechat] Initializing plugins
+[00:23:08] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[00:23:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:23:11] [main/INFO]: Loaded 7 recipes
+[00:23:12] [main/INFO]: Loaded 1271 advancements
+[00:23:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:23:12] [Server thread/INFO]: Loading properties
+[00:23:12] [Server thread/INFO]: Default game type: SURVIVAL
+[00:23:12] [Server thread/INFO]: Generating keypair
+[00:23:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:23:13] [Server thread/INFO]: Using epoll channel type
+[00:23:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:23:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:23:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:23:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:23:13] [Server thread/INFO]: Preparing level "world"
+[00:23:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:23:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:23:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:24:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[00:24:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[00:24:09] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[00:24:09] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[00:24:10] [Worker-Main-1/INFO]: Preparing spawn area: 88%
+[00:24:10] [Worker-Main-1/INFO]: Preparing spawn area: 89%
+[00:24:11] [Worker-Main-1/INFO]: Preparing spawn area: 89%
+[00:24:11] [Worker-Main-1/INFO]: Preparing spawn area: 89%
+[00:24:12] [Worker-Main-1/INFO]: Preparing spawn area: 92%
+[00:24:12] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[00:24:13] [Worker-Main-1/INFO]: Preparing spawn area: 94%
+[00:24:13] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[00:24:14] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[00:24:14] [Worker-Main-1/INFO]: Preparing spawn area: 98%
+[00:24:15] [Worker-Main-1/INFO]: Preparing spawn area: 99%
+[00:24:16] [Server thread/INFO]: Time elapsed: 48501 ms
+[00:24:16] [Server thread/INFO]: Done (62.731s)! For help, type "help"
+[00:24:16] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[00:24:16] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.119.221.90:24454
+[00:25:09] [Server thread/INFO]: Naannoo[/100.86.117.58:54685] logged in with entity id 378 at (-0.5, 70.0, -5.5)
+[00:25:09] [Server thread/INFO]: Naannoo joined the game
+[00:25:09] [Server thread/INFO]: [voicechat] Received secret request of Naannoo (18)
+[00:25:09] [Server thread/INFO]: [voicechat] Sent secret to Naannoo
+[00:25:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[00:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[00:25:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
+[00:25:29] [Server thread/INFO]: Cafssterr[/100.73.252.4:62337] logged in with entity id 565 at (9.5, 63.0, 3.5)
+[00:25:29] [Server thread/INFO]: Cafssterr joined the game
+[00:25:30] [Server thread/INFO]: [voicechat] Received secret request of Cafssterr (18)
+[00:25:30] [Server thread/INFO]: [voicechat] Sent secret to Cafssterr
+[00:25:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
+[00:25:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
+[00:25:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
+[00:25:55] [Server thread/INFO]: [Not Secure] <Naannoo> GRUPO
+[00:27:11] [Server thread/INFO]: Naannoo has made the advancement [Stone Age]
+[00:27:24] [Server thread/INFO]: Cafssterr has made the advancement [Stone Age]
+[00:27:54] [Server thread/ERROR]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.class_3218$class_5526.method_31436(class_3218.java:1566) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218$class_5526.method_31798(class_3218.java:1536) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31847(class_5579.java:216) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31825(class_5579.java:256) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31816(class_5579.java:240) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31815(class_5579.java:226) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_31414(class_3898.java:1353) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3193.method_31412(class_3193.java:382) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.class_3218$class_5526.method_31436(class_3218.java:1566) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218$class_5526.method_31798(class_3218.java:1536) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31847(class_5579.java:216) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31825(class_5579.java:256) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31816(class_5579.java:240) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31815(class_5579.java:226) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_31414(class_3898.java:1353) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3193.method_31412(class_3193.java:382) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.class_3218$class_5526.method_31436(class_3218.java:1566) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218$class_5526.method_31798(class_3218.java:1536) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31847(class_5579.java:216) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31825(class_5579.java:256) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31816(class_5579.java:240) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31815(class_5579.java:226) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_31414(class_3898.java:1353) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3193.method_31412(class_3193.java:382) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.class_3218$class_5526.method_31436(class_3218.java:1566) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218$class_5526.method_31798(class_3218.java:1536) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31847(class_5579.java:216) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31825(class_5579.java:256) ~[server-intermediary.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.class_5579.method_31816(class_5579.java:240) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5579.method_31815(class_5579.java:226) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_31414(class_3898.java:1353) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3193.method_31412(class_3193.java:382) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/ERROR]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4107.method_46966(class_4107.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
+	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[00:27:56] [Server thread/INFO]: Naannoo has made the advancement [Getting an Upgrade]
+[00:28:12] [Server thread/INFO]: Cafssterr has made the advancement [Getting an Upgrade]
+[00:36:07] [Server thread/INFO]: Cafssterr has made the advancement [Acquire Hardware]
+[00:36:08] [Server thread/INFO]: Naannoo has made the advancement [Acquire Hardware]
+[00:36:25] [Server thread/INFO]: Naannoo has made the advancement [Not Today, Thank You]
+[00:36:29] [Server thread/INFO]: Naannoo has made the advancement [Monster Hunter]
+[00:41:10] [Server thread/INFO]: Naannoo has made the advancement [Isn't It Iron Pick]
+[00:41:48] [Server thread/INFO]: Cafssterr has made the advancement [Isn't It Iron Pick]
+[00:42:10] [Server thread/INFO]: Cafssterr has made the advancement [Sweet Dreams]
+[00:42:32] [Server thread/INFO]: Made Cafssterr a server operator
+[00:42:39] [Server thread/INFO]: [Cafssterr: Gamerule playersSleepingPercentage is now set to: 1]
+[00:42:46] [Server thread/INFO]: Made Cafssterr no longer a server operator
+[00:45:32] [Server thread/INFO]: Cafssterr has made the advancement [Monster Hunter]
+[00:51:04] [Server thread/INFO]: Naannoo has made the advancement [Suit Up]
+[00:52:11] [Server thread/INFO]: Cafssterr has made the advancement [Suit Up]
+[00:56:48] [Server thread/INFO]: Cafssterr has made the advancement [Not Today, Thank You]
+[00:57:02] [Server thread/INFO]: Cafssterr has made the advancement [Diamonds!]
+[00:58:03] [Server thread/INFO]: Naannoo has made the advancement [Diamonds!]
+[01:11:50] [Server thread/INFO]: Naannoo was slain by Zombie
+[01:12:57] [Server thread/INFO]: Made Cafssterr a server operator
+[01:13:22] [Server thread/INFO]: [Cafssterr: Teleported Naannoo to Cafssterr]
+[01:14:05] [Server thread/INFO]: [Cafssterr: Set Naannoo's game mode to Survival Mode]
+[01:15:48] [Server thread/INFO]: Naannoo was blown up by Creeper
+[01:15:55] [Server thread/INFO]: [Cafssterr: Teleported Naannoo to Cafssterr]
+[01:15:59] [Server thread/INFO]: [Cafssterr: Set Naannoo's game mode to Survival Mode]
+[01:21:56] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[01:21:56] [Server thread/INFO]: Naannoo left the game
+[01:21:56] [Server thread/INFO]: [voicechat] Disconnecting client Naannoo
+[01:21:59] [Server thread/INFO]: Naannoo[/100.86.117.58:54930] logged in with entity id 17650 at (-57.40298744621777, -18.0, -301.12707111971406)
+[01:22:00] [Server thread/INFO]: Naannoo joined the game
+[01:22:00] [Server thread/INFO]: [voicechat] Received secret request of Naannoo (18)
+[01:22:00] [Server thread/INFO]: [voicechat] Sent secret to Naannoo
+[01:22:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[01:22:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[01:22:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
+[01:33:32] [Server thread/INFO]: Cafssterr lost connection: Disconnected
+[01:33:32] [Server thread/INFO]: Cafssterr left the game
+[01:33:32] [Server thread/INFO]: [voicechat] Disconnecting client Cafssterr
+[01:33:32] [Server thread/INFO]: Naannoo lost connection: Disconnected
+[01:33:32] [Server thread/INFO]: Naannoo left the game
+[01:33:32] [Server thread/INFO]: [voicechat] Disconnecting client Naannoo
+[01:33:45] [Server thread/INFO]: Stopping the server
+[01:33:45] [Server thread/INFO]: Stopping server
+[01:33:45] [Server thread/INFO]: Saving players
+[01:33:45] [Server thread/INFO]: Saving worlds
+[01:33:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:33:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:33:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
