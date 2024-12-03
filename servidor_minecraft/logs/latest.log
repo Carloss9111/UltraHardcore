@@ -1,5 +1,5 @@
-[01:04:36] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[01:04:37] [main/INFO]: Loading 10 mods:
+[01:14:04] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[01:14:04] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
@@ -11,81 +11,56 @@
 	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b82
 	   |-- fabric-networking-api-v1 1.3.8+b3afc78b82
 	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d82
-[01:04:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/UltraHardcore/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:04:38] [main/INFO]: Compatibility level set to JAVA_16
-[01:04:38] [main/INFO]: Compatibility level set to JAVA_17
-[01:04:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:04:52] [main/INFO]: [voicechat] Compatibility version 18
-[01:04:52] [main/INFO]: [voicechat] Loading plugins
-[01:04:52] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:04:52] [main/INFO]: [voicechat] Initializing plugins
-[01:04:52] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:04:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:04:58] [main/INFO]: Loaded 7 recipes
-[01:04:58] [main/INFO]: Loaded 1271 advancements
-[01:04:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:04:59] [Server thread/INFO]: Loading properties
-[01:04:59] [Server thread/INFO]: Default game type: SURVIVAL
-[01:04:59] [Server thread/INFO]: Generating keypair
-[01:04:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:04:59] [Server thread/INFO]: Using epoll channel type
-[01:05:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:05:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:05:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:05:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:05:00] [Server thread/INFO]: Preparing level "world"
-[01:05:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:05:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:05:25] [Server thread/INFO]: Time elapsed: 15630 ms
-[01:05:25] [Server thread/INFO]: Done (25.204s)! For help, type "help"
-[01:05:25] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:05:25] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.119.221.90:24454
-[01:05:31] [Server thread/INFO]: Cafssterr[/100.73.252.4:51644] logged in with entity id 118 at (71.5, 65.0, -241.5)
-[01:05:31] [Server thread/INFO]: Cafssterr joined the game
-[01:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
-[01:05:34] [Server thread/INFO]: [voicechat] Received secret request of Cafssterr (18)
-[01:05:34] [Server thread/INFO]: [voicechat] Sent secret to Cafssterr
-[01:05:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
-[01:05:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
-[01:05:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
-[01:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3818ms or 76 ticks behind
-[01:07:55] [Server thread/INFO]: Naannoo[/100.86.117.58:50995] logged in with entity id 900 at (70.0847752194647, 65.0, -240.72181490766658)
-[01:07:55] [Server thread/INFO]: Naannoo joined the game
-[01:07:55] [Server thread/INFO]: [voicechat] Received secret request of Naannoo (18)
-[01:07:55] [Server thread/INFO]: [voicechat] Sent secret to Naannoo
-[01:07:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[01:08:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
-[01:08:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
-[01:10:16] [Server thread/INFO]: Cafssterr has made the advancement [Ice Bucket Challenge]
-[01:11:18] [Server thread/INFO]: Cafssterr has made the advancement [Hot Stuff]
-[01:11:51] [Server thread/INFO]: Naannoo has made the advancement [Ice Bucket Challenge]
+[01:14:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/UltraHardcore/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:14:04] [main/INFO]: Compatibility level set to JAVA_16
+[01:14:04] [main/INFO]: Compatibility level set to JAVA_17
+[01:14:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:14:13] [main/INFO]: [voicechat] Compatibility version 18
+[01:14:13] [main/INFO]: [voicechat] Loading plugins
+[01:14:13] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[01:14:13] [main/INFO]: [voicechat] Initializing plugins
+[01:14:13] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[01:14:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:14:16] [main/INFO]: Loaded 7 recipes
+[01:14:16] [main/INFO]: Loaded 1271 advancements
+[01:14:17] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:14:17] [Server thread/INFO]: Loading properties
+[01:14:17] [Server thread/INFO]: Default game type: SURVIVAL
+[01:14:17] [Server thread/INFO]: Generating keypair
+[01:14:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:14:18] [Server thread/INFO]: Using epoll channel type
+[01:14:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:14:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:14:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:14:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:14:18] [Server thread/INFO]: Preparing level "world"
+[01:14:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:32] [Server thread/INFO]: Time elapsed: 8834 ms
+[01:14:32] [Server thread/INFO]: Done (14.631s)! For help, type "help"
+[01:14:32] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01:14:32] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.119.221.90:24454
+[01:14:54] [Server thread/INFO]: Cafssterr[/100.73.252.4:51809] logged in with entity id 110 at (352.46677309233377, 87.17675927506424, -414.0048767184562)
+[01:14:54] [Server thread/INFO]: Cafssterr joined the game
+[01:14:56] [Server thread/INFO]: [voicechat] Received secret request of Cafssterr (18)
+[01:14:56] [Server thread/INFO]: [voicechat] Sent secret to Cafssterr
+[01:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[01:14:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
+[01:15:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
+[01:15:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
