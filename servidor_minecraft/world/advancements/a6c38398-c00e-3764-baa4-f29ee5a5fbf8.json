@@ -460,6 +460,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-02 01:02:34 +0000",
       "cooked_mutton": "2024-12-02 00:33:37 +0000",
+      "cooked_beef": "2024-12-03 01:11:08 +0000",
       "beef": "2024-12-02 00:31:50 +0000",
       "porkchop": "2024-12-02 00:30:54 +0000",
       "cooked_chicken": "2024-12-02 00:57:54 +0000"
@@ -1436,12 +1437,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-12-02 01:27:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-02 01:26:06 +0000"
@@ -1499,6 +1494,30 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-02 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-02 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 01:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 01:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 01:11:51 +0000"
     },
     "done": true
   },
